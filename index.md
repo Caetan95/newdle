@@ -33,14 +33,14 @@ Newdle is also developed by the same people who are behind [Indico](https://geti
 ![A sneak peek of Newdle](images/sneakpeek.gif)
 
 
-|||
-|-|-|
-|<a href="https://home.cern"><img src="https://raw.githubusercontent.com/indico/assets/master/cern_badge.png" width="64"></a>|Made at [CERN](https://home.cern)<br>[Take part!](https://careers.cern/)|
-|||
-
-
 ## Note
 
 > In applying the MIT license, CERN does not waive the privileges and immunities
 > granted to it by virtue of its status as an Intergovernmental Organization
 > or submit itself to any jurisdiction.
+
+
+|||
+|-|-|
+|<a href="https://home.cern"><img src="https://raw.githubusercontent.com/indico/assets/master/cern_badge.png" width="64"></a>|Made at [CERN](https://home.cern)<br>[Take part!](https://careers.cern/)|
+|||
