@@ -12,6 +12,7 @@ One of the **most remarkable features** of this tool among others is the **user-
 
 Newdle is part of the [MALT project](https://malt.web.cern.ch/malt/).
 
+![A sneak peek of Newdle](images/sneakpeek.gif)
 
 
 ## Main features
@@ -22,9 +23,6 @@ Newdle is part of the [MALT project](https://malt.web.cern.ch/malt/).
 - Keep list of participants private
 - Check if I am part of any newdles
 - Check my newdles
-
-
-![A sneak peek of Newdle](images/sneakpeek.gif)
 
 
 ## Note
