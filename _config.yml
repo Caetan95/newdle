@@ -1,6 +1,5 @@
 theme: jekyll-theme-cayman
 title: Newdle Project
-github_url: "https://github.com/indico/newdle/"
 github_username: indico
 description: > # this means to ignore newlines until "baseurl:"
  Newdle Project Official site
