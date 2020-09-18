@@ -25,7 +25,7 @@ Newdle is part of the [MALT project](https://malt.web.cern.ch/malt/).
 - Check my newdles
 
 
-## Note
+#### Note
 
 > In applying the MIT license, CERN does not waive the privileges and immunities
 > granted to it by virtue of its status as an Intergovernmental Organization
