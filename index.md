@@ -1,10 +1,5 @@
 # Newdle
 
-|||
-|-|-|
-|<a href="https://github.com/indico/newdle/"><img src="images/logo_color.svg" width="64"></a>|[Newdle repo](https://github.com/indico/newdle/)|
-|||
-
 **Newdle** is the new, shiny tool brought to you by the [Indico Team](https://getindico.io/about/) @ [CERN](https://home.cern/). Here at CERN we **hold a lot of meetings**. While [Indico](https://getindico.io/) makes it super easy to manage those meetings, we still **lose a lot of time** trying to schedule them, which usually involves numerous emails and private messages. That is what newdle has been created for: to streamline the process of choosing **the perfect date and time** for your next meeting/event.
 
 Newdle is part of the [MALT project](https://malt.web.cern.ch/malt/).
