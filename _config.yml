@@ -1,4 +1,5 @@
 theme: jekyll-theme-cayman
+gem "github-pages", group: :jekyll_plugins
 title: Newdle Project
 github_username: indico
 description: > # this means to ignore newlines until "baseurl:"
